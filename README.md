@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Go, JavaScript  
+- **Languages**: Go, JavaScript, TypeScript  
 - **Frameworks**: Gin,  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
 - **Other**: Docker, Git, REST APIs  

@@ -32,7 +32,6 @@
 ### 📌 Featured Projects
 - [Meeting Manager](https://github.com/jhonnydsl/meeting-manager) – API for scheduling and managing meetings with JWT authentication.  
 - [Todo API in Go](https://github.com/jhonnydsl/todo-api) – Task management REST API with PostgreSQL.  
-- [Portfolio Projects](https://github.com/jhonnydsl) – More projects available in my repositories.  
 
 ---
 

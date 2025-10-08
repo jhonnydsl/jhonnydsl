@@ -27,6 +27,13 @@
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest-api" alt="REST API" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-v1.21-blue" alt="Go Version" />
+  <img src="https://img.shields.io/github/actions/workflow/status/jhonnydsl/meeting-manager/go.yml?branch=main&style=for-the-badge" alt="Build Status" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Coverage-0%25-red?style=for-the-badge" alt="Coverage" />
+</p>
+
 ---
 
 ### 📌 Featured Projects

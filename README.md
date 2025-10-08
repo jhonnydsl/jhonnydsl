@@ -30,22 +30,9 @@
 ---
 
 ### 📌 Featured Projects
-
-**APIs / Backend**
-
-- [Meeting Manager](https://github.com/jhonnydsl/meeting-manager)  
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square) ![API](https://img.shields.io/badge/REST_API-blue?style=flat-square)  
-  JWT authentication, conflict-free meeting scheduling, invitation management.
-
-- [Todo API in Go](https://github.com/jhonnydsl/todo-api)  
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square) ![API](https://img.shields.io/badge/REST_API-blue?style=flat-square)  
-  Task management REST API with PostgreSQL, CRUD operations, and basic authentication.
-
-**Portfolio / Other Projects**
-
-- [Portfolio Projects](https://github.com/jhonnydsl)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)  
-  Collection of smaller projects demonstrating learning and experimentation with web development and backend APIs.
+- [Meeting Manager](https://github.com/jhonnydsl/meeting-manager) – API for scheduling and managing meetings with JWT authentication.  
+- [Todo API in Go](https://github.com/jhonnydsl/todo-api) – Task management REST API with PostgreSQL.  
+- [Portfolio Projects](https://github.com/jhonnydsl) – More projects available in my repositories.  
 
 ---
 
